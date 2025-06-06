@@ -38,7 +38,7 @@ Follow these steps to set up Perplexity-CLI on your system:
 3. **Configure API Key and Budget**:
    - Open `qp.py` and update:
      - `API_KEY`: Your Perplexity API key.
-     - 'BUDGET': Your Perplexity credits in USD (default: `4.71`).
+     - `BUDGET`: Your Perplexity credits in USD.
 
 4. **Make the Script Executable**:
    - Grant execute permissions:
