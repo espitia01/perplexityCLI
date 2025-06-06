@@ -63,6 +63,8 @@ Follow these steps to set up Perplexity-CLI on your system:
 
 ## Functionality
 
+<img src="./docs/assets/demo.gif"/>  
+
 Perplexity-CLI offers two primary features:
 
 - **Information Retrieval**:
