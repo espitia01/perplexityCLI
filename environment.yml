@@ -1,0 +1,19 @@
+name: pp-cli
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - prettytable==2.4.0
+  - scikit-learn
+  - matplotlib
+  - numpy==1.21.4
+  - gym
+  - scipy
+  - torchvision
+  - torchaudio
+  - pytorch
+  - nb_conda_kernels
+  - scienceplots
+  - conda-forge::mlx
+  - requests
+  - rich
