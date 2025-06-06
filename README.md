@@ -63,7 +63,7 @@ Follow these steps to set up Perplexity-CLI on your system:
 
 ## Functionality
 
-<video src="./docs/assets/demo.mp4"></video>
+<video src="https://raw.githack.com/espitia01/perplexityCLI/main/docs/assets/demo.mp4"></video>
 
 Perplexity-CLI offers two primary features:
 
